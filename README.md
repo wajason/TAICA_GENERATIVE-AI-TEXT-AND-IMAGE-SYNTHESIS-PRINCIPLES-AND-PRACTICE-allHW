@@ -1,5 +1,6 @@
 # TAICA_GENERATIVE-AI-TEXT-AND-IMAGE-SYNTHESIS-PRINCIPLES-AND-PRACTICE-allHW
 I will place all my homework for the course "GENERATIVE AI: TEXT AND IMAGE SYNTHESIS PRINCIPLES AND PRACTICE" here for subsequent review or anytime access.
+---------------------------------------------------------------------------------------------------
 
 
 demo0: Draw graphs in python_Mobius strip
@@ -9,7 +10,6 @@ demo0: Draw graphs in python_Mobius strip
 demo1: MINST data plus gradio
 
 ![image](https://github.com/user-attachments/assets/8f14a603-69cb-48ec-b524-65d36c4f4588)
-![image](https://github.com/user-attachments/assets/b65e9b4b-1b61-4c47-afd7-a236c5b61e8b)
 
 demo4: MultiThemeGenerator_with_OpenAI_API
 
