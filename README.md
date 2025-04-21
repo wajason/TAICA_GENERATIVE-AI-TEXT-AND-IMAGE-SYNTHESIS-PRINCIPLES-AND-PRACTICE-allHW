@@ -32,6 +32,22 @@ demo6: food_recommendation_system_for_foodies
 ![image](https://github.com/user-attachments/assets/1c0b9f9a-2a9f-44c7-86f8-5815debae22e)
 ![image](https://github.com/user-attachments/assets/fac3e021-41b3-4681-b76d-95849df85289)
 
+demo7: Artificial_Intelligence_Agent_Stock_Professional_Analyst
+
+Initial screen
+![image](https://github.com/user-attachments/assets/296a0653-5ffa-4191-968d-fa5f85ab57b0)
+![image](https://github.com/user-attachments/assets/ce3f41f8-c5c6-4e03-81e6-586344645e9d)
+test screen-stock version
+![image](https://github.com/user-attachments/assets/161240ff-b19a-4023-bbc6-e78f64f01901)
+![image](https://github.com/user-attachments/assets/f26ec505-32a5-4604-8e49-0a0fb21ae6ae)
+test screen-crypto version
+![image](https://github.com/user-attachments/assets/68dcecb4-dbfb-4417-84a2-49b6b790d00e)
+![image](https://github.com/user-attachments/assets/27e9764e-94ec-4ec5-81f3-769f83643864)
+
+
+
+
+
 
 
 
