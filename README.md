@@ -44,6 +44,14 @@ test screen-crypto version
 ![image](https://github.com/user-attachments/assets/68dcecb4-dbfb-4417-84a2-49b6b790d00e)
 ![image](https://github.com/user-attachments/assets/27e9764e-94ec-4ec5-81f3-769f83643864)
 
+demo8: FantasiaFlux Engine - The Ultimate Text-to-Image Powerhouse with sd-v1-5, sd-2-1, sd-turbo, and Multiple Schedulers
+![系統初始畫面](https://github.com/user-attachments/assets/ba00404c-1f61-4106-a19c-a026eb92b2ca)
+![實作畫面](https://github.com/user-attachments/assets/e2a1e1ea-97cc-4a39-aea4-b0a8be15c6f9)
+更多生圖效果
+![image](https://github.com/user-attachments/assets/3d2be9bf-3cec-4b92-99ec-6d56134035ad)
+![image](https://github.com/user-attachments/assets/d9701b27-0304-4222-8fe9-c01307527b45)
+![image](https://github.com/user-attachments/assets/aa038fed-39cc-4fe7-9e2a-a2c55ad9a9b9)
+
 
 
 
